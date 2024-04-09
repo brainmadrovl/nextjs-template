@@ -1,19 +1,36 @@
 :root {
-  --primary-color: #0074d9;
-  --secondary-color: #ff851b;
-  --background-color: #f8f8f8;
+  /* Color */
+  --primary-bg-color: #6F1D5D;
+  --secondary-bg-color: #C32059;
+  --primary-txt-color: #232323;
+  --secondary-txt-color: #6d6d6d;
+  
+  --error-bg-color: #f9eeed;
+  --info-bg-color: #eaf5fd;
+  --success-bg-color: #EFF7ED;
+  --warning-bg-color: #fcf5e6;
+  --error-txt-color: #ba4433;
+  --info-txt-color: #4d82cf;
+  --success-txt-color: #4a7c35;
+  --warning-txt-color: #d5771b;
 
-  --font-family: "Roboto", sans-serif;
-  --font-size-base: 16px;
+  /* Typography */
+  --default-font-family: Roboto, ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  --title-font-family: Roboto, ui-sans-serif;
 
+  /* Spacing */
   --spacing-small: 8px;
   --spacing-medium: 16px;
   --spacing-large: 24px;
 
+  /* Breakpoint */
   --breakpoint-small: 576px;
   --breakpoint-medium: 768px;
   --breakpoint-large: 992px;
 
+  /* Depth */
   --z-index-modal: 1000;
   --z-index-dropdown: 900;
 }
