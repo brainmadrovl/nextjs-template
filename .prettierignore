@@ -1,0 +1,7 @@
+.github
+
+# Production
+build
+
+# Dependencies
+node_modules

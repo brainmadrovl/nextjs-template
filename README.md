@@ -13,7 +13,7 @@ This project template is actually a simple universal webapp with 2 screens. I ho
 To create a new app with create-next-app:
 
 ```sh
-npx create-next-app@latest sample-nextjs --use-npm --example "git@github.com:brainmadrovl/sample-nextjs.git"
+npx create-next-app@latest sample-nextjs --use-npm --example "git@github.com:brainmadrovl/nextjs-template.git"
 ```
 
 To run this example, simply do:

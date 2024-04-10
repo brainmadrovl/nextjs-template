@@ -3,7 +3,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
     title: 'title',
-    description: 'descriptionf'
+    description: 'description'
 }
 
 export default function RootLayout({
