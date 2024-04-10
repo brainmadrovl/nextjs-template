@@ -1,13 +1,13 @@
 :root {
   /* Color */
-  --primary-bg-color: #6F1D5D;
-  --secondary-bg-color: #C32059;
+  --primary-bg-color: #6f1d5d;
+  --secondary-bg-color: #c32059;
   --primary-txt-color: #232323;
   --secondary-txt-color: #6d6d6d;
-  
+
   --error-bg-color: #f9eeed;
   --info-bg-color: #eaf5fd;
-  --success-bg-color: #EFF7ED;
+  --success-bg-color: #eff7ed;
   --warning-bg-color: #fcf5e6;
   --error-txt-color: #ba4433;
   --info-txt-color: #4d82cf;

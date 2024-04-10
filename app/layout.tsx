@@ -1,8 +1,9 @@
-import { Metadata } from "next"
+import './styles/main.css'
+import { Metadata } from 'next'
 
 export const metadata: Metadata = {
     title: 'title',
-    description: 'description'
+    description: 'descriptionf'
 }
 
 export default function RootLayout({
